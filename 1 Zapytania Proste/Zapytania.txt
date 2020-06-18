@@ -1,0 +1,14 @@
+1. 
+Pokaż pracowników pracujących w pierwszym biurze i będącymi reprezentantami firmy.
+
+2.
+Pokaż nazwe i wartość dla motocykli których wartość jest większa od 250000.
+
+3.
+Pokaż nr. zamówienia, nr. produktu oraz cene dla zamówień o wartości ponad 200. 
+
+4.
+Pokaż nr. klienta oraz wysokość płatności dla płatności których wysokość wyniosła ponad 35000 i które odbyły się w 2005 roku.
+
+5.
+Pokaż nazwe klienta, miejscowość i zdolność kredytową dla klientów którzy pochodzą z usa lub maja zdolność kredytową ponad 100000 i nie są z usa i mają zdolność kredytową ponad 100000

@@ -1,0 +1,11 @@
+1. Napisz przykładowe procedury i wykonaj je w swojej bazie danych
+
+a. Procedura zwracająca określone dane (z parametrami wejściowymi i wyjściowymi).
+
+b. Procedura aktualizująca dane.
+
+c. Procedura tworząca nową tabelę z danych pozyskanych z bazy danych.
+
+d. Procedura zmieniająca strukturę wybranej tabeli.
+
+2. Procedury i ich wyniki zapisz do pliku Nazwisko_lab13.zip, a następnie prześlij do oceny. 

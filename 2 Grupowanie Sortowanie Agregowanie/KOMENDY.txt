@@ -1,0 +1,20 @@
+1*.
+SELECT employees.officeCode, offices.country, COUNT(employees.employeeNumber) as `Employed`
+FROM employees,offices 
+WHERE employees.officeCode = offices.officeCode 
+GROUP BY employees.officeCode
+
+2.
+SELECT products.productName, MAX(orderdetails.priceEach - products.buyPrice) as Marza
+FROM products, orderdetails
+GROUP BY products.productCode
+ORDER BY Marza ASC
+
+3. 
+SELECT products.productLine AS Rodzaj, AVG( orderdetails.priceEach ) AS Srednia, COUNT( orderdetails.quantityOrdered )
+FROM products, orderdetails
+WHERE products.productCode = orderdetails.productCode
+GROUP BY products.productLine
+ORDER BY Srednia ASC
+
+4. 
